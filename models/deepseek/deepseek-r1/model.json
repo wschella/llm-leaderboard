@@ -1,5 +1,5 @@
 {
-  "canonical_model_id": null,
+  "canonical_model_id": "deepseek-r1-0528",
   "fine_tuned_from_model_id": "deepseek-v3",
   "name": "DeepSeek-R1",
   "description": "DeepSeek-R1 is the first-generation reasoning model built atop DeepSeek-V3 (671B total parameters, 37B activated per token). It incorporates large-scale reinforcement learning (RL) to enhance its chain-of-thought and reasoning capabilities, delivering strong performance in math, code, and multi-step reasoning tasks.",

@@ -12,11 +12,19 @@
     },
     {
       "model_id": "gemini-2.5-pro",
-      "price_per_input_token": 0.0000025,
+      "price_per_input_token": 0.00000125,
       "price_per_output_token": 0.00001,
       "throughput": 85,
       "latency": 0.7,
       "updated_at": "2025-03-28"
+    },
+    {
+      "model_id": "gemini-2.5-pro-preview-06-05",
+      "price_per_input_token": 0.00000125,
+      "price_per_output_token": 0.00001,
+      "throughput": 85,
+      "latency": 0.7,
+      "updated_at": "2025-06-05"
     },
     {
       "model_id": "gemini-2.0-flash-lite",
@@ -61,7 +69,7 @@
     {
       "model_id": "gemini-2.0-flash",
       "price_per_input_token": 0.0000001,
-      "price_per_output_token": 0.0000007,
+      "price_per_output_token": 0.0000004,
       "throughput": 183,
       "latency": 0.4,
       "updated_at": "2025-03-06"

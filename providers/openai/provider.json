@@ -108,8 +108,8 @@
     },
     {
       "model_id": "o3-2025-04-16",
-      "price_per_input_token": 0.00001,
-      "price_per_output_token": 0.00004,
+      "price_per_input_token": 0.000002,
+      "price_per_output_token": 0.000008,
       "throughput": 50,
       "latency": 20.0,
       "updated_at": "2025-04-16"
@@ -121,6 +121,14 @@
       "throughput": 115,
       "latency": 5.2,
       "updated_at": "2024-12-18"
+    },
+    {
+      "model_id": "o3-pro-2025-06-10",
+      "price_per_input_token": 0.00002,
+      "price_per_output_token": 0.00008,
+      "throughput": 25,
+      "latency": 30.0,
+      "updated_at": "2025-06-10"
     }
   ]
 }
