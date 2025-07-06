@@ -44,7 +44,7 @@
       "source_link": "https://huggingface.co/blog/gemma2"
     },
     {
-      "dataset_name": "SocialIQA",
+      "dataset_name": "Social IQa",
       "score": 0.537,
       "is_self_reported": true,
       "analysis_method": "0-shot",
@@ -68,7 +68,7 @@
       "source_link": "https://huggingface.co/blog/gemma2"
     },
     {
-      "dataset_name": "ARC-e",
+      "dataset_name": "ARC-E",
       "score": 0.886,
       "is_self_reported": true,
       "analysis_method": "0-shot",
