@@ -44,7 +44,7 @@
       "source_link": "https://huggingface.co/google/gemma-3n-E2B-it-litert-preview"
     },
     {
-      "dataset_name": "SocialIQA",
+      "dataset_name": "Social IQa",
       "score": 0.488,
       "is_self_reported": true,
       "analysis_method": "0-shot Accuracy",

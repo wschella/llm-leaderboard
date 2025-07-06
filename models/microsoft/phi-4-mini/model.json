@@ -100,7 +100,7 @@
       "source_link": "https://huggingface.co/microsoft/Phi-4-mini-instruct"
     },
     {
-      "dataset_name": "Social IQA",
+      "dataset_name": "Social IQa",
       "score": 0.725,
       "is_self_reported": true,
       "analysis_method": "5-shot",
