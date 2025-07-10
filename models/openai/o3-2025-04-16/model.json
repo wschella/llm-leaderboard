@@ -130,6 +130,14 @@
       "analysis_method": "accuracy (no tools)",
       "date_recorded": "2025-04-16",
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "ARC-AGI v2",
+      "score": 0.065,
+      "is_self_reported": false,
+      "analysis_method": "accuracy",
+      "date_recorded": "2025-07-01",
+      "source_link": "https://x.com/xai/status/1943158495588815072"
     }
   ]
 }

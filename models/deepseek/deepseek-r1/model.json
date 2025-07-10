@@ -171,6 +171,14 @@
       "analysis_method": "Correct",
       "date_recorded": "2025-01-20",
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+    },
+    {
+      "dataset_name": "ARC-AGI v2",
+      "score": 0.013,
+      "is_self_reported": false,
+      "analysis_method": "accuracy",
+      "date_recorded": "2025-07-01",
+      "source_link": "https://x.com/xai/status/1943158495588815072"
     }
   ]
 }

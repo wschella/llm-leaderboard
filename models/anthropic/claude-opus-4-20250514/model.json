@@ -82,6 +82,14 @@
       "analysis_method": "Extended thinking (up to 64K tokens) with parallel test-time compute (multiple attempts, internal scoring model selection). Nucleus sampling (top_p 0.95). Based on footnotes 4, 5 and blog appendix.",
       "date_recorded": "2025-05-22",
       "source_link": "https://www.anthropic.com/news/claude-4"
+    },
+    {
+      "dataset_name": "ARC-AGI v2",
+      "score": 0.086,
+      "is_self_reported": false,
+      "analysis_method": "accuracy",
+      "date_recorded": "2025-07-01",
+      "source_link": "https://x.com/xai/status/1943158495588815072"
     }
   ]
 }

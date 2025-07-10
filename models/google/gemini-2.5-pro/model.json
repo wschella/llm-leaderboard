@@ -138,6 +138,14 @@
       "analysis_method": "Pointwise",
       "date_recorded": "2025-03-26",
       "source_link": "https://deepmind.google/models/gemini/pro/"
+    },
+    {
+      "dataset_name": "ARC-AGI v2",
+      "score": 0.049,
+      "is_self_reported": false,
+      "analysis_method": "accuracy",
+      "date_recorded": "2025-07-01",
+      "source_link": "https://x.com/xai/status/1943158495588815072"
     }
   ]
 }
