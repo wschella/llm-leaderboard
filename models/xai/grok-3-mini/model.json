@@ -21,7 +21,7 @@
   "qualitative_metrics": [
     {
       "dataset_name": "GPQA",
-      "score": 0.846,
+      "score": 0.84,
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-02-24",
@@ -29,7 +29,7 @@
     },
     {
       "dataset_name": "LiveCodeBench",
-      "score": 0.8,
+      "score": 0.804,
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-02-24",
@@ -45,7 +45,7 @@
     },
     {
       "dataset_name": "AIME 2025",
-      "score": 0.903,
+      "score": 0.908,
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-02-24",
