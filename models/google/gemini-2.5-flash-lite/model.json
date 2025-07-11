@@ -60,7 +60,7 @@
       "source_link": "https://deepmind.google/models/gemini/flash-lite/"
     },
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.316,
       "is_self_reported": true,
       "analysis_method": "Agentic coding single attempt",

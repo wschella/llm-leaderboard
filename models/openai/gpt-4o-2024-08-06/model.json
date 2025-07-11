@@ -125,7 +125,7 @@
       "source_link": "https://openai.com/index/gpt-4-1/"
     },
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.332,
       "is_self_reported": true,
       "analysis_method": "Accuracy",

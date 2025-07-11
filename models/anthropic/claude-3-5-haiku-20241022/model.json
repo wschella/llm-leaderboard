@@ -36,7 +36,7 @@
       "source_link": "https://www.anthropic.com/news/claude-3-5-haiku"
     },
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.406,
       "is_self_reported": true,
       "analysis_method": "standard",

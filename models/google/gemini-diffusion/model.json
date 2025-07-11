@@ -44,7 +44,7 @@
       "source_link": "https://deepmind.google/models/gemini-diffusion/"
     },
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.229,
       "is_self_reported": true,
       "analysis_method": "pass @1, Non-agentic evaluation (single turn edit only), max prompt length of 32K",
