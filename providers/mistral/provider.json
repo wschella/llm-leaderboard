@@ -3,6 +3,30 @@
   "website": "https://mistral.ai",
   "providermodels": [
     {
+      "model_id": "devstral-medium-2507",
+      "price_per_input_token": 0.0000004,
+      "price_per_output_token": 0.000002,
+      "throughput": 137.1,
+      "latency": 0.23,
+      "updated_at": "2025-07-11"
+    },
+    {
+      "model_id": "devstral-small-2507",
+      "price_per_input_token": 0.0000001,
+      "price_per_output_token": 0.0000003,
+      "throughput": 137.1,
+      "latency": 0.23,
+      "updated_at": "2025-07-11"
+    },
+    {
+      "model_id": "mistral-small-3.1-24b-base-2503",
+      "price_per_input_token": 0.0000001,
+      "price_per_output_token": 0.0000003,
+      "throughput": 137.1,
+      "latency": 0.23,
+      "updated_at": "2025-04-30"
+    },
+    {
       "model_id": "mistral-small-3.1-24b-base-2503",
       "price_per_input_token": 0.0000001,
       "price_per_output_token": 0.0000003,

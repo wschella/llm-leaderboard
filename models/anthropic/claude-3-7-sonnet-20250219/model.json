@@ -20,7 +20,7 @@
   "training_tokens": null,
   "qualitative_metrics": [
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.703,
       "is_self_reported": true,
       "analysis_method": "With multiple parallel attempts and advanced scaffolding",

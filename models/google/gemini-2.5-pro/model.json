@@ -76,7 +76,7 @@
       "source_link": "https://deepmind.google/models/gemini/pro/"
     },
     {
-      "dataset_name": "SWE-bench Verified",
+      "dataset_name": "SWE-Bench Verified",
       "score": 0.632,
       "is_self_reported": true,
       "analysis_method": "Accuracy",
