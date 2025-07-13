@@ -57,6 +57,14 @@
       "throughput": 37.96,
       "latency": 1.18,
       "updated_at": "2025-05-28"
+    },
+    {
+      "model_id": "kimi-k2-instruct",
+      "price_per_input_token": 0.00000057,
+      "price_per_output_token": 0.0000023,
+      "throughput": 45.0,
+      "latency": 0.95,
+      "updated_at": "2025-01-01"
     }
   ]
 }
