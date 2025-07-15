@@ -22,7 +22,7 @@
     {
       "dataset_name": "ARC-C",
       "score": 0.7099,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
@@ -30,7 +30,7 @@
     {
       "dataset_name": "HellaSwag",
       "score": 0.886,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
@@ -38,7 +38,7 @@
     {
       "dataset_name": "MMLU",
       "score": 0.757,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
@@ -46,7 +46,7 @@
     {
       "dataset_name": "TruthfulQA",
       "score": 0.563,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
@@ -54,7 +54,7 @@
     {
       "dataset_name": "Winogrande",
       "score": 0.854,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
@@ -62,7 +62,7 @@
     {
       "dataset_name": "GSM8k",
       "score": 0.707,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Standardized Evaluation",
       "date_recorded": "2024-08-30",
       "source_link": "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
