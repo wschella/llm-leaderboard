@@ -22,7 +22,7 @@
     {
       "dataset_name": "MMLU",
       "score": 0.865,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Multiple-choice questions in 57 subjects (professional & academic)",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
@@ -30,7 +30,7 @@
     {
       "dataset_name": "GPQA",
       "score": 0.48,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "General-Purpose Question Answering",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
@@ -38,7 +38,7 @@
     {
       "dataset_name": "MATH",
       "score": 0.726,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Mathematics problem-solving",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
@@ -46,7 +46,7 @@
     {
       "dataset_name": "HumanEval",
       "score": 0.871,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Python coding tasks",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
@@ -54,7 +54,7 @@
     {
       "dataset_name": "MGSM",
       "score": 0.885,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Grade School Math Word Problems",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
@@ -62,7 +62,7 @@
     {
       "dataset_name": "DROP",
       "score": 0.86,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Reading comprehension & arithmetic (f1 score)",
       "date_recorded": "2024-04-09",
       "source_link": "https://openai.com/index/hello-gpt-4o/"
