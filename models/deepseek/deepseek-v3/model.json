@@ -22,7 +22,7 @@
     {
       "dataset_name": "MMLU",
       "score": 0.885,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -30,7 +30,7 @@
     {
       "dataset_name": "MMLU-Redux",
       "score": 0.891,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -38,7 +38,7 @@
     {
       "dataset_name": "MMLU-Pro",
       "score": 0.759,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -46,7 +46,7 @@
     {
       "dataset_name": "DROP",
       "score": 0.916,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "3-shot F1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -54,7 +54,7 @@
     {
       "dataset_name": "IFEval",
       "score": 0.861,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Prompt Strict",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -62,7 +62,7 @@
     {
       "dataset_name": "GPQA",
       "score": 0.591,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -70,7 +70,7 @@
     {
       "dataset_name": "SimpleQA",
       "score": 0.249,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Correct",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -78,7 +78,7 @@
     {
       "dataset_name": "FRAMES",
       "score": 0.733,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Accuracy",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -86,7 +86,7 @@
     {
       "dataset_name": "LongBench v2",
       "score": 0.487,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Accuracy",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -94,7 +94,7 @@
     {
       "dataset_name": "HumanEval-Mul",
       "score": 0.826,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -102,7 +102,7 @@
     {
       "dataset_name": "LiveCodeBench-COT",
       "score": 0.405,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1-COT",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -110,7 +110,7 @@
     {
       "dataset_name": "LiveCodeBench",
       "score": 0.376,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -119,7 +119,7 @@
     {
       "dataset_name": "SWE-Bench Verified",
       "score": 0.42,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Resolved",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -127,7 +127,7 @@
     {
       "dataset_name": "Aider-Polyglot Edit",
       "score": 0.797,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Accuracy",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -135,7 +135,7 @@
     {
       "dataset_name": "Aider-Polyglot",
       "score": 0.496,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Accuracy",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -143,7 +143,7 @@
     {
       "dataset_name": "AIME 2024",
       "score": 0.392,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -151,7 +151,7 @@
     {
       "dataset_name": "MATH-500",
       "score": 0.902,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -159,7 +159,7 @@
     {
       "dataset_name": "CNMO-2024",
       "score": 0.432,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Pass@1",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -167,7 +167,7 @@
     {
       "dataset_name": "CLUEWSC",
       "score": 0.909,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -175,7 +175,7 @@
     {
       "dataset_name": "C-Eval",
       "score": 0.865,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Exact Match",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"
@@ -183,7 +183,7 @@
     {
       "dataset_name": "C-SimpleQA",
       "score": 0.648,
-      "is_self_reported": false,
+      "is_self_reported": true,
       "analysis_method": "Correct",
       "date_recorded": "2024-12-25",
       "source_link": "https://github.com/deepseek-ai/DeepSeek-V3"

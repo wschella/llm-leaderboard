@@ -24,7 +24,7 @@
       "score": 0.86,
       "is_self_reported": true,
       "analysis_method": "Pass@1 accuracy",
-      "date_recorded": "2024-03",
+      "date_recorded": "2024-03-13",
       "source_link": "https://openai.com/index/introducing-chatgpt-pro/"
     },
     {
@@ -32,7 +32,7 @@
       "score": 0.79,
       "is_self_reported": true,
       "analysis_method": "Diamond, Pass@1 accuracy",
-      "date_recorded": "2024-03",
+      "date_recorded": "2024-03-13",
       "source_link": "https://openai.com/index/introducing-chatgpt-pro/"
     }
   ]
