@@ -28,10 +28,10 @@
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "GPQA Diamond",
       "score": 0.833,
       "is_self_reported": true,
-      "analysis_method": "diamond accuracy (no tools)",
+      "analysis_method": "accuracy (no tools)",
       "date_recorded": "2025-04-16",
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
@@ -44,18 +44,42 @@
       "source_link": "https://www.youtube.com/live/SKBG1sqdyIU?si=lWccKHt8bnttuYta"
     },
     {
-      "dataset_name": "ARC-AGI",
-      "score": 0.88,
+      "dataset_name": "ARC-AGI 1 Semi-Private",
+      "score": 0.875,
       "is_self_reported": true,
-      "analysis_method": "test set evaluation",
+      "analysis_method": "reasoning high",
       "date_recorded": "2024-12-20",
-      "source_link": "https://www.youtube.com/live/SKBG1sqdyIU?si=lWccKHt8bnttuYta"
+      "source_link": "https://youtu.be/SKBG1sqdyIU?t=473"
+    },
+    {
+      "dataset_name": "ARC-AGI 1 Semi-Private",
+      "score": 0.757,
+      "is_self_reported": true,
+      "analysis_method": "reasoning low",
+      "date_recorded": "2024-12-20",
+      "source_link": "https://youtu.be/SKBG1sqdyIU?t=473"
+    },
+    {
+      "dataset_name": "AIME 2025",
+      "score": 0.889,
+      "is_self_reported": true,
+      "analysis_method": "pass@1 (no tools)",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
       "dataset_name": "AIME 2025",
       "score": 0.984,
       "is_self_reported": true,
       "analysis_method": "pass@1 (with python tool)",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "AIME 2025",
+      "score": 1.00,
+      "is_self_reported": true,
+      "analysis_method": "consensus@8 (with python tool)",
       "date_recorded": "2025-04-16",
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
@@ -116,10 +140,26 @@
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
-      "dataset_name": "Tau-bench",
-      "score": 0.63,
+      "dataset_name": "TAU-bench",
+      "score": 0.6482,
       "is_self_reported": true,
-      "analysis_method": "accuracy (avg Airline/Retail)",
+      "analysis_method": "accuracy (avg Airline(115q)/Retail(50q)); averaged across 5 runs; no tools; no custom prompting; gpt-4o user model",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "TAU-bench Airline",
+      "score": 0.520,
+      "is_self_reported": true,
+      "analysis_method": "accuracy; averaged across 5 runs; no tools; no custom prompting; gpt-4o user model",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "TAU-bench Retail",
+      "score": 0.704,
+      "is_self_reported": true,
+      "analysis_method": "accuracy; averaged across 5 runs; no tools; no custom prompting; gpt-4o user model",
       "date_recorded": "2025-04-16",
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
@@ -132,12 +172,20 @@
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
-      "dataset_name": "ARC-AGI v2",
+      "dataset_name": "Humanity's Last Exam",
+      "score": 0.249,
+      "is_self_reported": true,
+      "analysis_method": "accuracy (python + browsing tools)",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "ARC-AGI 2 Semi-Private",
       "score": 0.065,
       "is_self_reported": false,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     }
   ]
 }

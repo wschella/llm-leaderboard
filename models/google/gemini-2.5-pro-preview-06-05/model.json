@@ -28,10 +28,10 @@
       "source_link": "https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/"
     },
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "GPQA Diamond",
       "score": 0.864,
       "is_self_reported": true,
-      "analysis_method": "Single attempt Diamond",
+      "analysis_method": "Single attempt",
       "date_recorded": "2025-06-05",
       "source_link": "https://blog.google/products/gemini/gemini-2-5-pro-latest-preview/"
     },

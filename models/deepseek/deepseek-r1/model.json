@@ -84,10 +84,10 @@
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
     },
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "GPQA Diamond",
       "score": 0.715,
       "is_self_reported": true,
-      "analysis_method": "Pass@1 Diamond",
+      "analysis_method": "Pass@1",
       "date_recorded": "2025-01-20",
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
     },
@@ -173,12 +173,12 @@
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
     },
     {
-      "dataset_name": "ARC-AGI v2",
+      "dataset_name": "ARC-AGI 2 Semi-Private",
       "score": 0.013,
       "is_self_reported": false,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     }
   ]
 }
