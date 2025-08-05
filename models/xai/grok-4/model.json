@@ -20,12 +20,12 @@
   "training_tokens": null,
   "qualitative_metrics": [
     {
-      "dataset_name": "Humanities Last Exam",
+      "dataset_name": "Humanity's Last Exam",
       "score": 0.4,
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
       "dataset_name": "GPQA",
@@ -33,7 +33,7 @@
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
       "dataset_name": "HMMT25",
@@ -41,7 +41,7 @@
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
       "dataset_name": "AIME 2025",
@@ -49,7 +49,7 @@
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
       "dataset_name": "USAMO25",
@@ -57,7 +57,7 @@
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
       "dataset_name": "LiveCodeBench",
@@ -65,15 +65,15 @@
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     },
     {
-      "dataset_name": "ARC-AGI v2",
+      "dataset_name": "ARC-AGI 2 Semi-Private",
       "score": 0.159,
       "is_self_reported": true,
       "analysis_method": "accuracy",
       "date_recorded": "2025-07-01",
-      "source_link": "https://x.com/xai/status/1943158495588815072"
+      "source_link": "https://x.ai/news/grok-4"
     }
   ]
 }

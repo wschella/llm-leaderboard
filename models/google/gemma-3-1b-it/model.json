@@ -20,10 +20,10 @@
   "training_tokens": 2000000000000,
   "qualitative_metrics": [
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "GPQA Diamond",
       "score": 0.192,
       "is_self_reported": true,
-      "analysis_method": "0-shot evaluation diamond",
+      "analysis_method": "0-shot evaluation",
       "date_recorded": "2025-03-12",
       "source_link": "https://ai.google.dev/gemma/docs/core/model_card_3"
     },

@@ -28,7 +28,7 @@
       "source_link": "https://huggingface.co/mistralai/Ministral-8B-Instruct-2410"
     },
     {
-      "dataset_name": "AGI Eval",
+      "dataset_name": "AGIEval",
       "score": 0.483,
       "is_self_reported": true,
       "analysis_method": "Internal evaluation",

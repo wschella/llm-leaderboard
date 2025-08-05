@@ -36,10 +36,18 @@
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "AIME 2025",
+      "score": 0.995,
+      "is_self_reported": true,
+      "analysis_method": "consensus@8 (python tool)",
+      "date_recorded": "2025-04-16",
+      "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
+    },
+    {
+      "dataset_name": "GPQA Diamond",
       "score": 0.814,
       "is_self_reported": true,
-      "analysis_method": "diamond accuracy (no tools)",
+      "analysis_method": "accuracy (no tools)",
       "date_recorded": "2025-04-16",
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },

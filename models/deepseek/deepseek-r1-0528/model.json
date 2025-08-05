@@ -36,10 +36,10 @@
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528"
     },
     {
-      "dataset_name": "GPQA",
+      "dataset_name": "GPQA Diamond",
       "score": 0.81,
       "is_self_reported": true,
-      "analysis_method": "Pass@1 Diamond",
+      "analysis_method": "Pass@1",
       "date_recorded": "2025-05-28",
       "source_link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528"
     },
