@@ -76,7 +76,7 @@
       "source_link": "https://developers.googleblog.com/en/start-building-with-gemini-25-flash/"
     },
     {
-      "dataset_name": "SWE-Bench Verified",
+      "dataset_name": "SWE-bench Verified",
       "score": 0.604,
       "is_self_reported": true,
       "analysis_method": "Accuracy",

@@ -20,7 +20,7 @@
   "training_tokens": null,
   "qualitative_metrics": [
     {
-      "dataset_name": "SWE-Bench Verified",
+      "dataset_name": "SWE-bench Verified",
       "score": 0.802,
       "is_self_reported": true,
       "analysis_method": "Parallel test-time compute (multiple attempts, internal scoring model selection). No extended thinking. Based on footnote 5 and SWE-bench methodology for high compute.",
