@@ -36,7 +36,7 @@
       "source_link": "https://openai.com/index/introducing-o3-and-o4-mini/"
     },
     {
-      "dataset_name": "Frontier Math",
+      "dataset_name": "FrontierMath",
       "score": 0.252,
       "is_self_reported": true,
       "analysis_method": "accuracy",
